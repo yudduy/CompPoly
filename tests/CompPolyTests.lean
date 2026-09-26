@@ -78,6 +78,7 @@ public import CompPolyTests.Fields.Extension.RawArithmetic
 public import CompPolyTests.Fields.Goldilocks.Bytes
 public import CompPolyTests.Fields.Goldilocks.Fast
 public import CompPolyTests.Fields.KoalaBear.Fast
+public import CompPolyTests.Fields.KoalaBear.FreshReplay
 public import CompPolyTests.Fields.Mersenne31.Bytes
 public import CompPolyTests.Fields.Mersenne31.Fast
 public import CompPolyTests.Fields.Mersenne31.Instances
